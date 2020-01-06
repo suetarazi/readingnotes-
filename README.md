@@ -1,37 +1,58 @@
-## Welcome to GitHub Pages
+# Code 201 Reading Notes
+## This website has reading notes for the CodeFellows Code 201 course - taken in January 2020. 
 
-You can use the [editor on GitHub](https://github.com/suetarazi/readingnotes-/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+# Table of Contents
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Reading 1
+* Notes:
 
-### Markdown
+### Reading 2
+* Notes:
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Reading 3
+* Notes:
 
-```markdown
-Syntax highlighted code block
+### Reading 4
+* Notes:
 
-# Header 1
-## Header 2
-### Header 3
+### Reading 5
+* Notes:
 
-- Bulleted
-- List
+### Reading 6
+* Notes:
 
-1. Numbered
-2. List
+### Reading 7
+* Notes:
 
-**Bold** and _Italic_ and `Code` text
+### Reading 8
+* Notes:
 
-[Link](url) and ![Image](src)
-```
+### Reading 9
+* Notes:
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+### Reading 10
+* Notes:
 
-### Jekyll Themes
+### Reading 11
+* Notes:
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/suetarazi/readingnotes-/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+### Reading 12
+* Notes:
 
-### Support or Contact
+### Reading 13
+* Notes:
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+### Reading 14
+* Notes:
+
+### Reading 15
+* Notes:
+
+
+
+
+
+
+_The past is in your head, the future is in your hands._
+
+
