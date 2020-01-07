@@ -38,4 +38,11 @@ h3 {
  
  Best practices state CSS rules be stored in a separate file (externally) and referenced in the head of the HTML document via a <link> tag.
  
- 
+# JavaScript - Chapter 2 Notes:
+
+JavaScript code is organized into Statements, each which starts on a new line. Groups of statements can be organized into blocks of code. Comments in JavaScript are important (so one knows what you are doing) and are denoted by /* and */ for multi-line comments and // for a single line comment.
+
+Variables are used to store data. They are declared using the term var followed by the variable name followed by a value (if you choose to assign one). 
+
+
+
