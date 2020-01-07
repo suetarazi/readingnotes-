@@ -4,7 +4,7 @@
 # Table of Contents
 
 ### Reading 1
-* Notes:
+* Notes: [Link to Class-01.md] (https://github.suetarazi/readingnotes/Class-01.md)
 
 ### Reading 2
 * Notes:
