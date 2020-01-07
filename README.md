@@ -7,7 +7,7 @@
 * Notes: [Link to class-01.md](https://suetarazi.github.io/readingnotes-/class-01.md)
 
 ### Reading 2
-* Notes:
+* Notes: [Link to class-02.md](https://suetarazi.github.io/readingnotes-/class-02.md)
 
 ### Reading 3
 * Notes:
